@@ -1,0 +1,11 @@
+**/*.txt
+**/*.html
+**/*.xml
+**/.env
+**/allure-results/
+**/browser/
+**/report.html
+**/.idea/
+**/.DS_Store
+**/__pycache__/
+**/.pytest_cache/
